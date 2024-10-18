@@ -81,18 +81,18 @@ input[type="range"] {
 
 @media (max-width: 768px) {
     .gallery {
-        flex-direction: column; /* Stack items vertically */
+        flex-direction: column; 
     }
 
     .primary-image {
-        width: 100%; /* Full width for mobile */
+        width: 100%; 
     }
 
     .secondary-images {
-        width: 100%; /* Full width for mobile */
+        width: 100%; 
     }
 
     .grid {
-        grid-template-columns: 1fr; /* Stack secondary images vertically */
+        grid-template-columns: 1fr; 
     }
 }
