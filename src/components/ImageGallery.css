@@ -79,6 +79,14 @@ input[type="range"] {
     width: 30%;
 }
 
+.no-images {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #666;
+  }
+  
+
 @media (max-width: 768px) {
     .gallery {
         flex-direction: column; 
